@@ -1,6 +1,6 @@
 # Vmake App
 
-Hi, I am Vmake App. I build and write about Vmake, an AI video and photo editor for your phone.
+Hi, I have built this AI video editing app. It is totally free of cost and offers unlimited features for video editing and branding purposes.
 
 ## What Vmake does
 
